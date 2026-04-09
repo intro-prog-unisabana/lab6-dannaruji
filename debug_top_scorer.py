@@ -17,3 +17,5 @@ def run():
         top_player = max(scores, key=scores.get)
         print(f"Top scorer: {top_player} with {scores[top_player]} points.")
 
+run()
+
