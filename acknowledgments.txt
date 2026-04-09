@@ -36,5 +36,5 @@ https://github.com/dannaruji
  ******************************************************************************/
 
 [escribe y firma la declaración aquí]
-Esta tarea de programación representa mi propio trabajo de acuerdo con
-las regulaciones de la Universidad.  /s/ Danna Isabella Ruiz
+Esta tarea de programación representa mi propio trabajo de acuerdo 
+con las regulaciones de la Universidad.  /s/ danna isabella ruiz
