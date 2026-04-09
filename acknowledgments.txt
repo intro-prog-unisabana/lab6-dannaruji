@@ -5,7 +5,6 @@ Lab 6
 ******************************************************************************/
 Número de horas: 48h
 
-
 /****************************************************************************
 * ¿Encontraste algún problema serio? Si es así, por favor descríbelo.
 ******************************************************************************/
@@ -14,16 +13,9 @@ Número de horas: 48h
 no
 
 /****************************************************************************
-* Escribe cualquier otro comentario aquí.
-******************************************************************************/
-
-
-
-/****************************************************************************
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
 https://github.com/dannaruji
 
 /****************************************************************************
@@ -35,6 +27,5 @@ https://github.com/dannaruji
  *      con las regulaciones de la Universidad.  /s/ Ada Lovelace
  ******************************************************************************/
 
-[escribe y firma la declaración aquí]
 Esta tarea de programación representa mi propio trabajo de acuerdo 
 con las regulaciones de la Universidad.  /s/ danna isabella ruiz
