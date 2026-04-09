@@ -63,7 +63,7 @@ def avg_by_student(student_grades, selected_students=None):
         for student in student_grades:
             if student.lower() == name.lower():
                 grades = student_grades[student].values()
-                avg = sum(grades) / len(grades)
+                avg = (sum(grades) / len(grades), 1)
                 
                 print(f"{student}: {avg}")
                 found = True
