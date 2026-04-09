@@ -3,7 +3,7 @@ Lab 6
 /****************************************************************************
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
-Número de horas:
+Número de horas: 48h
 
 
 /****************************************************************************
@@ -11,12 +11,12 @@ Número de horas:
 ******************************************************************************/
 
 ¿Sí o no?
-
+No
 
 /****************************************************************************
 * Escribe cualquier otro comentario aquí.
 ******************************************************************************/
-
+.
 
 
 /****************************************************************************
@@ -24,6 +24,7 @@ Número de horas:
  ******************************************************************************/
 
 [escribe el enlace aquí]
+https://github.com/dannaruji
 
 /****************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
@@ -35,3 +36,5 @@ Número de horas:
  ******************************************************************************/
 
 [escribe y firma la declaración aquí]
+Esta tarea de programación representa mi propio trabajo de acuerdo con
+las regulaciones de la Universidad.  /s/ Danna Isabella Ruiz
